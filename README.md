@@ -57,6 +57,11 @@
 
 ### Recent activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+2. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+3. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+4. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+5. 🗣 Commented on [#45](https://github.com/zachowj/hass-node-red/issues/45) in [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red)
 <!--END_SECTION:activity-->
 
 [personal:www]: https://jaimyborgman.nl/?utm_source=github&utm_medium=social&utm_campaign=readme_referral
