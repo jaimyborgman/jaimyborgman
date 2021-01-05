@@ -10,7 +10,7 @@
 ### What keeps me busy?
 - freelancing and giving back to the community
 - turning my own creative ideas into actual projects
-- diving more into ethical hacking this year
+- diving more into ethical hacking
 - sharing more of my knowledge online
 
 #### My Projects
@@ -73,3 +73,5 @@
 [project:fiteesy]: https://fiteesy.io/?utm_source=github&utm_medium=social&utm_campaign=readme_referral
 [project:remindr]: https://getremindr.com/?utm_source=github&utm_medium=social&utm_campaign=readme_referral
 [project:authenticator+]: https://apps.apple.com/app/authenticator/id1534054410
+
+![](https://hit.yhype.me/github/profile?user_id=1233769)
