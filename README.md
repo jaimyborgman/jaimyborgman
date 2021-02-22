@@ -57,8 +57,8 @@
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1170](https://github.com/nWidart/laravel-modules/issues/1170) in [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules)
-2. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+1. 🗣 Commented on [#290](https://github.com/laravel/cashier-mollie/issues/290) in [laravel/cashier-mollie](https://github.com/laravel/cashier-mollie)
+2. 🗣 Commented on [#1170](https://github.com/nWidart/laravel-modules/issues/1170) in [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules)
 3. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
 4. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
 5. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
