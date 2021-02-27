@@ -57,11 +57,11 @@
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/al-one/hass-xiaomi-miot/issues/25) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
-2. 🗣 Commented on [#290](https://github.com/laravel/cashier-mollie/issues/290) in [laravel/cashier-mollie](https://github.com/laravel/cashier-mollie)
-3. 🗣 Commented on [#1170](https://github.com/nWidart/laravel-modules/issues/1170) in [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules)
-4. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
-5. 🗣 Commented on [#138](https://github.com/dresden-elektronik/deconz-rest-plugin/issues/138) in [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin)
+1. 🗣 Commented on [#25](https://github.com/al-one/hass-xiaomi-miot/issues/25) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+2. 🗣 Commented on [#25](https://github.com/al-one/hass-xiaomi-miot/issues/25) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+3. ❗️ Opened issue [#25](https://github.com/al-one/hass-xiaomi-miot/issues/25) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+4. 🗣 Commented on [#290](https://github.com/laravel/cashier-mollie/issues/290) in [laravel/cashier-mollie](https://github.com/laravel/cashier-mollie)
+5. 🗣 Commented on [#1170](https://github.com/nWidart/laravel-modules/issues/1170) in [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules)
 <!--END_SECTION:activity-->
 
 [personal:www]: https://jaimyborgman.nl/?utm_source=github&utm_medium=social&utm_campaign=readme_referral
